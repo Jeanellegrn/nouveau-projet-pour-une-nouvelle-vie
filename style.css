@@ -1,0 +1,52 @@
+h1 {
+	color: #344e41;
+	justify-content: center;
+	display: flex;
+	box-shadow: 2px 2px 3px grey; 
+}
+
+h2 {
+	color: #344e41;
+	text-align: justify;
+	margin: 50px;
+	padding: 10px;
+	border: 5px solid #185412;
+	border-radius: 7px;
+	box-shadow: 2px 2px 3px grey; 
+	display: flex;
+	justify-content: center;
+
+}
+
+p {
+	text-align: justify;
+
+}
+img{
+	width: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 700px;
+
+}
+body
+{
+	background-color: #dad7cd;
+	  font-family: "Nunito", sans-serif;
+
+}
+
+#div-video {
+	width: 500px;
+	margin: 0 autoc v xvdf vffxcf cf
+	                                                                                                                                                                                                                                       fvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvc;
+}
+.flexbox {
+	display: flex;
+	justify-content: space-around;
+}
+
+.card-center {
+	width: 700px;
+	margin: 0 auto;
